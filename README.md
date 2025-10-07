@@ -6,10 +6,15 @@ This dashboard provides real-time insights into 🧈 product sales, 🧮 pricing
 🚀 Key Highlights:
 
 📍 Per Unit Price & Quantity Sold – Tracks dairy pricing and total product sales.
+
 📈 Monthly Sales Trends – Identifies high and low-performing months.
+
 🧀 Product Insights – Analyzes Milk, Curd, Butter, Lassi, Paneer, and Yogurt performance.
+
 🧭 Geo Visualization – Displays state-wise distribution using a map visual.
+
 📦 Storage Conditions – Categorizes products into Refrigerated, Frozen, and Ambient storage.
+
 🏆 Top Dairy Brands – Highlights top contributors like Amul, Mother Dairy, and others.
 
 🧰 Tools & Techniques:
