@@ -1,9 +1,11 @@
 # 🐄💡 Dairy Sales Dashboard | Power BI Project 📊✨
 
+
 I designed and analyzed this interactive Dairy Sales Dashboard using Power BI to visualize and monitor dairy product performance across multiple 🗺️ states in India 🇮🇳.
 This dashboard provides real-time insights into 🧈 product sales, 🧮 pricing trends, 🐮 livestock count, 🌾 farm size, and 🛒 reorder quantities.
 
-🚀 Key Highlights:
+
+#🚀 Key Highlights:
 
 📍 Per Unit Price & Quantity Sold – Tracks dairy pricing and total product sales.
 
@@ -17,14 +19,20 @@ This dashboard provides real-time insights into 🧈 product sales, 🧮 pricing
 
 🏆 Top Dairy Brands – Highlights top contributors like Amul, Mother Dairy, and others.
 
-🧰 Tools & Techniques:
+#🧰 Tools & Techniques:
 
 🔹 Power BI
+
 🔹 DAX Calculations
+
 🔹 Data Modeling
+
 🔹 Data Cleaning & Transformation
+
 🔹 Interactive Visualization Design
 
+
 💬 Project Summary:
+
 
 This dashboard empowers decision-makers to make data-driven business decisions 💼 by simplifying complex dairy sales data into clear, insightful visuals 🎯.
