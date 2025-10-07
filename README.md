@@ -5,7 +5,7 @@ I designed and analyzed this interactive Dairy Sales Dashboard using Power BI to
 This dashboard provides real-time insights into 🧈 product sales, 🧮 pricing trends, 🐮 livestock count, 🌾 farm size, and 🛒 reorder quantities.
 
 
-#🚀 Key Highlights:
+🚀 Key Highlights:
 
 📍 Per Unit Price & Quantity Sold – Tracks dairy pricing and total product sales.
 
@@ -19,7 +19,7 @@ This dashboard provides real-time insights into 🧈 product sales, 🧮 pricing
 
 🏆 Top Dairy Brands – Highlights top contributors like Amul, Mother Dairy, and others.
 
-#🧰 Tools & Techniques:
+🧰 Tools & Techniques:
 
 🔹 Power BI
 
